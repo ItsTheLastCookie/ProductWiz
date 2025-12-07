@@ -1,0 +1,5 @@
+{
+  "name": "ProductViz & Edit",
+  "description": "A generative AI tool using Gemini 2.5 Flash Image to visualize products in marketing scenarios and perform text-based image editing.",
+  "requestFramePermissions": []
+}
